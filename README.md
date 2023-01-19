@@ -22,16 +22,10 @@
 	</tr>
 	<tr>
 		<td>
-			<img src="" alt="" width="400">
+			<img src="https://user-images.githubusercontent.com/99376135/213330699-b8819675-9aad-4dcc-b88e-b8da2759860a.png" alt="" width="400">
 		</td>
 		<td>
-			<img src="" alt="" width="400">
-		</td>
-		<td>
-			<img src="" alt="" width="400">
-		</td>
-		<td>
-			<img src="" alt="" width="400">
+			<img src="https://user-images.githubusercontent.com/99376135/213330690-2dae5136-ecc2-41fb-92c8-42a1f03bf4fe.png" alt="" width="400">
 		</td>
 	</tr>
 </table>
